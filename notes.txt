@@ -1,0 +1,4 @@
+steps:
+1. Define store => configureStore
+2. Define reducer+action => createSlice
+3. select and dispatch =?useSelector & useDispatch
